@@ -49,3 +49,66 @@ Built on the **Online Retail Dataset**, this project helps e-commerce businesses
 ├── README.md
 ├── .gitattributes                               # Git LFS configuration
 └── requirements.txt                             # (optional) dependencies
+
+## 🚀 How to Run Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   cd your-repo-name
+   ```
+
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+   *(or manually: `pip install streamlit pandas scikit-learn joblib`)*
+
+3. **Run the Streamlit app**
+   ```bash
+   streamlit run test.py
+   ```
+
+**Note**: Large files are tracked with **Git LFS**. Install Git LFS if files do not download automatically.
+
+---
+
+## 📊 Models Overview
+
+- **RFM Segmentation**: Customers are clustered into 4 segments using scaled RFM features and K-Means.
+- **Recommendation System**: Cosine similarity matrix built from customer-product purchase matrix for fast and accurate suggestions.
+
+---
+
+## 📌 Future Enhancements
+
+- File upload option for new data
+- User-based collaborative filtering
+- Cluster visualization dashboard
+- Cloud deployment (Streamlit Community Cloud / Hugging Face)
+
+---
+
+## 👨‍💻 Author
+
+**Kushal Kumar Das**  
+Final-year B.Tech CSE Student  
+Birsa Institute of Technology (BIT) Sindri  
+
+Feel free to connect or contribute!
+
+---
+
+⭐ **If you find this project useful, please give it a star!**
+
+---
+
+**License**: MIT
+```
+
+### How to Use
+1. Replace `yourusername/your-repo-name` with your actual GitHub repository URL.
+2. (Optional) Add a `requirements.txt` file with the dependencies.
+3. Commit and push the `README.md` file.
+
+This format follows GitHub’s best practices — clean, visually appealing, and professional.
