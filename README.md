@@ -50,11 +50,13 @@ Built on the **Online Retail Dataset**, this project helps e-commerce businesses
 ├── .gitattributes                               # Git LFS configuration
 └── requirements.txt                             # (optional) dependencies
 
+---
+
 ## 🚀 How to Run Locally
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/kushalkrd92/customer-segmentation-and-product-recommendation.git
    cd your-repo-name
    ```
 
@@ -86,29 +88,3 @@ Built on the **Online Retail Dataset**, this project helps e-commerce businesses
 - User-based collaborative filtering
 - Cluster visualization dashboard
 - Cloud deployment (Streamlit Community Cloud / Hugging Face)
-
----
-
-## 👨‍💻 Author
-
-**Kushal Kumar Das**  
-Final-year B.Tech CSE Student  
-Birsa Institute of Technology (BIT) Sindri  
-
-Feel free to connect or contribute!
-
----
-
-⭐ **If you find this project useful, please give it a star!**
-
----
-
-**License**: MIT
-```
-
-### How to Use
-1. Replace `yourusername/your-repo-name` with your actual GitHub repository URL.
-2. (Optional) Add a `requirements.txt` file with the dependencies.
-3. Commit and push the `README.md` file.
-
-This format follows GitHub’s best practices — clean, visually appealing, and professional.
